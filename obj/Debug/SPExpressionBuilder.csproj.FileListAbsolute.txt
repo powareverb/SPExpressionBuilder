@@ -1,0 +1,5 @@
+D:\projects\PFIntranet\IntranetMasterPages\SPExpressionBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\PFIntranet\IntranetMasterPages\SPExpressionBuilder\bin\Debug\SPExpressionBuilder.dll
+D:\projects\PFIntranet\IntranetMasterPages\SPExpressionBuilder\bin\Debug\SPExpressionBuilder.pdb
+D:\projects\PFIntranet\IntranetMasterPages\SPExpressionBuilder\obj\Debug\SPExpressionBuilder.dll
+D:\projects\PFIntranet\IntranetMasterPages\SPExpressionBuilder\obj\Debug\SPExpressionBuilder.pdb

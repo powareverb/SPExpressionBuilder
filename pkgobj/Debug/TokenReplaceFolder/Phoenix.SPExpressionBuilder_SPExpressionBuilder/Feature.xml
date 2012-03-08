@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Adds expressions missing from SP Foundation, and a few other additions" Id="87d34d06-0f3a-4752-bb37-b3913935a360" ReceiverAssembly="Phoenix.SPExpressionBuilder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3bf50d67de4343b0" ReceiverClass="Phoenix.SPExpressionBuilder.Features.Feature1.Feature1EventReceiver" Scope="WebApplication" Title="SharePoint ExpressionBuilder"></Feature>
